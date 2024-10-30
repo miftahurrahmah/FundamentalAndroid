@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">SubmissionFundamental</string>
+    <string name="title_home">Home</string>
+    <string name="title_upcomming">Up Comming</string>
+    <string name="title_finished">Finished</string>
+    <string name="title_favorite">Favorite</string>
+
+    <string name="dicoding_event">Acara Dicoding</string>
+    <string name="rekomendasi_event">Acara Rekomendasi</string>
+
+    <string name="sisa_kuota">Sisa Kuota</string>
+
+    <string name="upcoming">Acara Yang Akan Datang</string>
+    <string name="finish">Acara Yang Telah Selesai</string>
+
+    <string name="judul">Judul Event</string>
+    <string name="summary">Summary</string>
+    <string name="description">Deskripsi</string>
+    <string name="category">Kategori</string>
+    <string name="ownerName">Nama Owner</string>
+    <string name="cityName">Nama Kota</string>
+    <string name="quota">Kuota</string>
+    <string name="registrant">Register</string>
+    <string name="beginTime">Begin Time</string>
+    <string name="endTime">End Time</string>
+    <string name="link">Link</string>
+    <string name="notification">Notification</string>
+    <string name="setting">Setting</string>
+    <string name="go_to_favorite">Click to open</string>
+    <string name="no_event">No items available</string>
+    <string name="get_notification">Get notification</string>
+    <string name="theme">Change theme</string>
+    <string name="title_theme">Theme</string>
+    <string name="favorite_button_description"></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

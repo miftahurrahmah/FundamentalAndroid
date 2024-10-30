@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <Preference
+        android:title="@string/setting"
+        android:layout="@layout/fragment_setting"/>
+
+    <Preference
+        android:key="favoriteKey"
+        android:icon="@drawable/baseline_favorite_24"
+        android:title="@string/title_favorite"
+        android:summary="@string/go_to_favorite"/>
+
+    <SwitchPreference
+        android:defaultValue="false"
+        android:key="notificationKey"
+        android:summary="@string/get_notification"
+        android:icon="@drawable/ic_notification"
+        android:title="@string/notification" />
+
+    <SwitchPreference
+        android:defaultValue="false"
+        android:key="themeKey"
+        android:summary="@string/theme"
+        android:icon="@drawable/ic_darkmode"
+        android:title="@string/title_theme" />
+
+</PreferenceScreen>
